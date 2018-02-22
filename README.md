@@ -40,7 +40,7 @@ The SCSS compiler is set up in such a way that you don't have to use relative pa
 Run `npm test` to run tests with Jest
 
 ## Seed Mongo Data
-# To use seed data checkout dev/1.0 branch
+### To use seed data checkout dev/1.0 branch
 ```
 $ npm install -g node-mongo-seeds
 
