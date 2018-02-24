@@ -2,6 +2,9 @@
 
 Scrum team app helps scrum masters manage development teams.
 
+## URL
+https://scrum-team.herokuapp.com
+
 ## Getting started
 
 
@@ -13,10 +16,10 @@ Scrum team app helps scrum masters manage development teams.
 
 4. Start express server ```npm start```. This will start a server on localhost:3000
 
+## API
+
+Checkout README in the [development branch](https://github.com/asc2683/react-redux-scrum-team/tree/development)
+
 ## Acknowledgements
 
 The setup and commands for the Back End come from https://github.com/babel/example-node-server
-
-
-## API
-Checkout README in the development branch
