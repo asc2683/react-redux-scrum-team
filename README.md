@@ -2,6 +2,11 @@
 
 Scrum team app helps scrum masters manage development teams.
 
+## Screen
+Supports the following desktop browsers: Chrome, Safari and IE11
+
+![Dash board](https://s3-us-west-1.amazonaws.com/asc2683/scrum-team/scrum-team-dashboard-v1.png)
+
 ## URL
 https://scrum-team.herokuapp.com
 
